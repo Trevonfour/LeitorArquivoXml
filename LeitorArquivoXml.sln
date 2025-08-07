@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorArquivoXml", "LeitorArquivoXml.csproj", "{ABDD99CD-D10F-BC55-4A6B-BC141562BF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDD99CD-D10F-BC55-4A6B-BC141562BF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDD99CD-D10F-BC55-4A6B-BC141562BF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDD99CD-D10F-BC55-4A6B-BC141562BF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDD99CD-D10F-BC55-4A6B-BC141562BF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5959C7-26DD-4E44-9A99-B9F6D7646E9E}
+	EndGlobalSection
+EndGlobal
